@@ -15,4 +15,3 @@ This is a simple calculator written in Python.
 
 ## Purpose
 This project was created to practice basic Python programming.
-
